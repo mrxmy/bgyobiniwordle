@@ -83,7 +83,4 @@ export const WORDS = [
   'youandi',
   'originallyfilipino',
   'shagirls',
-  'tala',
-  'tala',
-  
 ]
