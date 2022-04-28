@@ -1,5 +1,5 @@
 export const VALID_GUESSES = [
-    'bgyo',
+  'bgyo',
   'gelo',
   'angelo',
   'troy',
