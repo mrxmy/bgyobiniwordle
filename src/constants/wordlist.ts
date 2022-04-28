@@ -77,4 +77,13 @@ export const WORDS = [
   'runnin',
   'besttime',
   'tala',
+  'binibini',
+  'becomingthechange',
+  'goingfurther',
+  'youandi',
+  'originallyfilipino',
+  'shagirls',
+  'tala',
+  'tala',
+  
 ]
