@@ -33,7 +33,7 @@ export const WORDS = [
   'stacey',
   'mikha',
   'sheena',
-  'dacococnutnut',
+  'dacoconutnut',
   'borntowin',
   'biniteal',
   'christine',
