@@ -33,7 +33,7 @@ export const VALID_GUESSES = [
   'stacey',
   'mikha',
   'sheena',
-  'dacococnutnut',
+  'dacoconutnut',
   'borntowin',
   'biniteal',
   'christine',
